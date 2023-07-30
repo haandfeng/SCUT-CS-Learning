@@ -1,0 +1,421 @@
+﻿  Benchmarks.cpp
+C:\进化算法\jde-randomization-methods-master\source\Benchmarks.h(19,8): error C3646: “n_dim”: 未知重写说明符
+C:\进化算法\jde-randomization-methods-master\source\Benchmarks.h(19,13): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\进化算法\jde-randomization-methods-master\source\Benchmarks.h(20,8): error C3646: “ID”: 未知重写说明符
+C:\进化算法\jde-randomization-methods-master\source\Benchmarks.h(20,10): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\进化算法\jde-randomization-methods-master\source\Benchmarks.h(31,51): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\进化算法\jde-randomization-methods-master\source\Benchmarks.h(35,52): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\进化算法\jde-randomization-methods-master\source\Benchmarks.h(41,8): error C3646: “getID”: 未知重写说明符
+C:\进化算法\jde-randomization-methods-master\source\Benchmarks.h(41,13): error C2059: 语法错误:“(”
+C:\进化算法\jde-randomization-methods-master\source\Benchmarks.h(41,15): error C2238: 意外的标记位于“;”之前
+C:\进化算法\jde-randomization-methods-master\source\Benchmarks.h(45,27): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\进化算法\jde-randomization-methods-master\source\Benchmarks.h(47,26): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\进化算法\jde-randomization-methods-master\source\Benchmarks.cpp(4,3): error C2065: “n_dim”: 未声明的标识符
+C:\进化算法\jde-randomization-methods-master\source\Benchmarks.cpp(22,18): error C2039: "getID": 不是 "Benchmarks" 的成员
+C:\进化算法\jde-randomization-methods-master\source\Benchmarks.h(12): message : 参见“Benchmarks”的声明
+C:\进化算法\jde-randomization-methods-master\source\Benchmarks.cpp(22,23): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\进化算法\jde-randomization-methods-master\source\Benchmarks.cpp(22,23): error C2146: 语法错误: 缺少“;”(在标识符“getID”的前面)
+C:\进化算法\jde-randomization-methods-master\source\Benchmarks.cpp(22,25): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+C:\进化算法\jde-randomization-methods-master\source\Benchmarks.cpp(22,25): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+C:\进化算法\jde-randomization-methods-master\source\Benchmarks.cpp(34,37): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\进化算法\jde-randomization-methods-master\source\Benchmarks.cpp(34,37): error C2146: 语法错误: 缺少“)”(在标识符“_dim”的前面)
+C:\进化算法\jde-randomization-methods-master\source\Benchmarks.cpp(34,37): error C3646: “_dim”: 未知重写说明符
+C:\进化算法\jde-randomization-methods-master\source\Benchmarks.cpp(34,42): error C2059: 语法错误:“)”
+C:\进化算法\jde-randomization-methods-master\source\Benchmarks.cpp(35,3): error C2065: “n_dim”: 未声明的标识符
+C:\进化算法\jde-randomization-methods-master\source\Benchmarks.cpp(35,11): error C2065: “_dim”: 未声明的标识符
+C:\进化算法\jde-randomization-methods-master\source\Benchmarks.cpp(38,36): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\进化算法\jde-randomization-methods-master\source\Benchmarks.cpp(38,36): error C2146: 语法错误: 缺少“)”(在标识符“nx”的前面)
+C:\进化算法\jde-randomization-methods-master\source\Benchmarks.cpp(38,36): error C3646: “nx”: 未知重写说明符
+C:\进化算法\jde-randomization-methods-master\source\Benchmarks.cpp(38,39): error C2059: 语法错误:“)”
+C:\进化算法\jde-randomization-methods-master\source\Benchmarks.cpp(39,8): error C2065: “nx”: 未声明的标识符
+C:\进化算法\jde-randomization-methods-master\source\Benchmarks.cpp(39,14): error C2146: 语法错误: 缺少“)”(在标识符“or”的前面)
+C:\进化算法\jde-randomization-methods-master\source\Benchmarks.cpp(39,75): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+  F1.cpp
+C:\进化算法\jde-randomization-methods-master\source\F1.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\进化算法\jde-randomization-methods-master\source\Benchmarks.h(19,8): error C3646: “n_dim”: 未知重写说明符
+C:\进化算法\jde-randomization-methods-master\source\Benchmarks.h(19,13): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\进化算法\jde-randomization-methods-master\source\Benchmarks.h(20,8): error C3646: “ID”: 未知重写说明符
+C:\进化算法\jde-randomization-methods-master\source\Benchmarks.h(20,10): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\进化算法\jde-randomization-methods-master\source\Benchmarks.h(31,51): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\进化算法\jde-randomization-methods-master\source\Benchmarks.h(35,52): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\进化算法\jde-randomization-methods-master\source\Benchmarks.h(41,8): error C3646: “getID”: 未知重写说明符
+C:\进化算法\jde-randomization-methods-master\source\Benchmarks.h(41,13): error C2059: 语法错误:“(”
+C:\进化算法\jde-randomization-methods-master\source\Benchmarks.h(41,15): error C2238: 意外的标记位于“;”之前
+C:\进化算法\jde-randomization-methods-master\source\Benchmarks.h(45,27): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\进化算法\jde-randomization-methods-master\source\Benchmarks.h(47,26): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\进化算法\jde-randomization-methods-master\source\F1.h(9,7): error C2460: “F1::uint”: 使用正在定义的“F1”
+C:\进化算法\jde-randomization-methods-master\source\F1.h(6): message : 参见“F1”的声明
+C:\进化算法\jde-randomization-methods-master\source\F1.h(12,43): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\进化算法\jde-randomization-methods-master\source\F1.cpp(6,8): error C2597: 对非静态成员“F1::uint”的非法引用
+C:\进化算法\jde-randomization-methods-master\source\F1.h(9): message : 参见“F1::uint”的声明
+C:\进化算法\jde-randomization-methods-master\source\F1.cpp(6,13): error C2146: 语法错误: 缺少“)”(在标识符“_dim”的前面)
+C:\进化算法\jde-randomization-methods-master\source\F1.cpp(6,30): error C2059: 语法错误:“)”
+C:\进化算法\jde-randomization-methods-master\source\F1.cpp(7,1): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+C:\进化算法\jde-randomization-methods-master\source\F1.cpp(7,1): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+C:\进化算法\jde-randomization-methods-master\source\F1.cpp(19,50): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\进化算法\jde-randomization-methods-master\source\F1.cpp(19,50): error C2146: 语法错误: 缺少“)”(在标识符“ip”的前面)
+C:\进化算法\jde-randomization-methods-master\source\F1.cpp(19,50): error C3646: “ip”: 未知重写说明符
+C:\进化算法\jde-randomization-methods-master\source\F1.cpp(19,52): error C2059: 语法错误:“)”
+C:\进化算法\jde-randomization-methods-master\source\F1.cpp(30,12): error C2146: 语法错误: 缺少“;”(在标识符“j”的前面)
+C:\进化算法\jde-randomization-methods-master\source\F1.cpp(30,14): error C2143: 语法错误: 缺少“;”(在“=”的前面)
+C:\进化算法\jde-randomization-methods-master\source\F1.cpp(30,14): error C2143: 语法错误: 缺少“)”(在“=”的前面)
+C:\进化算法\jde-randomization-methods-master\source\F1.cpp(30,14): error C2059: 语法错误:“=”
+C:\进化算法\jde-randomization-methods-master\source\F1.cpp(30,19): error C2065: “j”: 未声明的标识符
+C:\进化算法\jde-randomization-methods-master\source\F1.cpp(30,23): error C2065: “n_dim”: 未声明的标识符
+C:\进化算法\jde-randomization-methods-master\source\F1.cpp(30,30): error C2065: “j”: 未声明的标识符
+C:\进化算法\jde-randomization-methods-master\source\F1.cpp(30,33): error C2059: 语法错误:“)”
+C:\进化算法\jde-randomization-methods-master\source\F1.cpp(31,26): error C2065: “j”: 未声明的标识符
+C:\进化算法\jde-randomization-methods-master\source\F1.cpp(31,30): error C2065: “ip”: 未声明的标识符
+C:\进化算法\jde-randomization-methods-master\source\F1.cpp(31,45): error C2059: 语法错误:“;”
+C:\进化算法\jde-randomization-methods-master\source\F1.cpp(34,9): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\进化算法\jde-randomization-methods-master\source\F1.cpp(34,7): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\进化算法\jde-randomization-methods-master\source\F1.cpp(36,3): error C2059: 语法错误:“for”
+C:\进化算法\jde-randomization-methods-master\source\F1.cpp(36,17): error C2143: 语法错误: 缺少“)”(在“;”的前面)
+C:\进化算法\jde-randomization-methods-master\source\F1.cpp(36,21): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+C:\进化算法\jde-randomization-methods-master\source\F1.cpp(36,21): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\进化算法\jde-randomization-methods-master\source\F1.cpp(36,31): error C2143: 语法错误: 缺少“;”(在“++”的前面)
+C:\进化算法\jde-randomization-methods-master\source\F1.cpp(36,31): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\进化算法\jde-randomization-methods-master\source\F1.cpp(36,30): error C2086: “int j”: 重定义
+C:\进化算法\jde-randomization-methods-master\source\F1.cpp(36): message : 参见“j”的声明
+C:\进化算法\jde-randomization-methods-master\source\F1.cpp(36,33): error C2059: 语法错误:“)”
+C:\进化算法\jde-randomization-methods-master\source\F1.cpp(36,35): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+C:\进化算法\jde-randomization-methods-master\source\F1.cpp(36,35): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+C:\进化算法\jde-randomization-methods-master\source\F1.cpp(40,10): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\进化算法\jde-randomization-methods-master\source\F1.cpp(40,8): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\进化算法\jde-randomization-methods-master\source\F1.cpp(41,10): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\进化算法\jde-randomization-methods-master\source\F1.cpp(41,3): error C2374: “aux1”: 重定义；多次初始化
+C:\进化算法\jde-randomization-methods-master\source\F1.cpp(40): message : 参见“aux1”的声明
+C:\进化算法\jde-randomization-methods-master\source\F1.cpp(43,3): error C2059: 语法错误:“return”
+C:\进化算法\jde-randomization-methods-master\source\F1.cpp(44,1): error C2059: 语法错误:“}”
+C:\进化算法\jde-randomization-methods-master\source\F1.cpp(44,1): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+  F2.cpp
+C:\进化算法\jde-randomization-methods-master\source\F2.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\进化算法\jde-randomization-methods-master\source\Benchmarks.h(19,8): error C3646: “n_dim”: 未知重写说明符
+C:\进化算法\jde-randomization-methods-master\source\Benchmarks.h(19,13): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\进化算法\jde-randomization-methods-master\source\Benchmarks.h(20,8): error C3646: “ID”: 未知重写说明符
+C:\进化算法\jde-randomization-methods-master\source\Benchmarks.h(20,10): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\进化算法\jde-randomization-methods-master\source\Benchmarks.h(31,51): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\进化算法\jde-randomization-methods-master\source\Benchmarks.h(35,52): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\进化算法\jde-randomization-methods-master\source\Benchmarks.h(41,8): error C3646: “getID”: 未知重写说明符
+C:\进化算法\jde-randomization-methods-master\source\Benchmarks.h(41,13): error C2059: 语法错误:“(”
+C:\进化算法\jde-randomization-methods-master\source\Benchmarks.h(41,15): error C2238: 意外的标记位于“;”之前
+C:\进化算法\jde-randomization-methods-master\source\Benchmarks.h(45,27): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\进化算法\jde-randomization-methods-master\source\Benchmarks.h(47,26): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\进化算法\jde-randomization-methods-master\source\F2.h(9,7): error C2460: “F2::uint”: 使用正在定义的“F2”
+C:\进化算法\jde-randomization-methods-master\source\F2.h(6): message : 参见“F2”的声明
+C:\进化算法\jde-randomization-methods-master\source\F2.h(12,43): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\进化算法\jde-randomization-methods-master\source\F2.cpp(6,8): error C2597: 对非静态成员“F2::uint”的非法引用
+C:\进化算法\jde-randomization-methods-master\source\F2.h(9): message : 参见“F2::uint”的声明
+C:\进化算法\jde-randomization-methods-master\source\F2.cpp(6,13): error C2146: 语法错误: 缺少“)”(在标识符“_dim”的前面)
+C:\进化算法\jde-randomization-methods-master\source\F2.cpp(6,30): error C2059: 语法错误:“)”
+C:\进化算法\jde-randomization-methods-master\source\F2.cpp(7,1): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+C:\进化算法\jde-randomization-methods-master\source\F2.cpp(7,1): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+C:\进化算法\jde-randomization-methods-master\source\F2.cpp(19,50): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\进化算法\jde-randomization-methods-master\source\F2.cpp(19,50): error C2146: 语法错误: 缺少“)”(在标识符“ip”的前面)
+C:\进化算法\jde-randomization-methods-master\source\F2.cpp(19,50): error C3646: “ip”: 未知重写说明符
+C:\进化算法\jde-randomization-methods-master\source\F2.cpp(19,52): error C2059: 语法错误:“)”
+C:\进化算法\jde-randomization-methods-master\source\F2.cpp(27,11): error C2146: 语法错误: 缺少“;”(在标识符“i”的前面)
+C:\进化算法\jde-randomization-methods-master\source\F2.cpp(27,13): error C2143: 语法错误: 缺少“;”(在“=”的前面)
+C:\进化算法\jde-randomization-methods-master\source\F2.cpp(27,13): error C2143: 语法错误: 缺少“)”(在“=”的前面)
+C:\进化算法\jde-randomization-methods-master\source\F2.cpp(27,13): error C2059: 语法错误:“=”
+C:\进化算法\jde-randomization-methods-master\source\F2.cpp(27,18): error C2065: “i”: 未声明的标识符
+C:\进化算法\jde-randomization-methods-master\source\F2.cpp(27,22): error C2065: “n_dim”: 未声明的标识符
+C:\进化算法\jde-randomization-methods-master\source\F2.cpp(27,29): error C2065: “i”: 未声明的标识符
+C:\进化算法\jde-randomization-methods-master\source\F2.cpp(27,32): error C2059: 语法错误:“)”
+C:\进化算法\jde-randomization-methods-master\source\F2.cpp(28,27): error C2065: “i”: 未声明的标识符
+C:\进化算法\jde-randomization-methods-master\source\F2.cpp(28,31): error C2065: “ip”: 未声明的标识符
+C:\进化算法\jde-randomization-methods-master\source\F2.cpp(28,56): error C2065: “M_PI”: 未声明的标识符
+C:\进化算法\jde-randomization-methods-master\source\F2.cpp(28,67): error C2065: “i”: 未声明的标识符
+C:\进化算法\jde-randomization-methods-master\source\F2.cpp(28,71): error C2065: “ip”: 未声明的标识符
+C:\进化算法\jde-randomization-methods-master\source\F2.cpp(28,80): error C2059: 语法错误:“;”
+C:\进化算法\jde-randomization-methods-master\source\F2.cpp(31,5): error C2059: 语法错误:“return”
+C:\进化算法\jde-randomization-methods-master\source\F2.cpp(32,1): error C2059: 语法错误:“}”
+C:\进化算法\jde-randomization-methods-master\source\F2.cpp(32,1): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+  F3.cpp
+C:\进化算法\jde-randomization-methods-master\source\F3.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\进化算法\jde-randomization-methods-master\source\Benchmarks.h(19,8): error C3646: “n_dim”: 未知重写说明符
+C:\进化算法\jde-randomization-methods-master\source\Benchmarks.h(19,13): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\进化算法\jde-randomization-methods-master\source\Benchmarks.h(20,8): error C3646: “ID”: 未知重写说明符
+C:\进化算法\jde-randomization-methods-master\source\Benchmarks.h(20,10): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\进化算法\jde-randomization-methods-master\source\Benchmarks.h(31,51): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\进化算法\jde-randomization-methods-master\source\Benchmarks.h(35,52): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\进化算法\jde-randomization-methods-master\source\Benchmarks.h(41,8): error C3646: “getID”: 未知重写说明符
+C:\进化算法\jde-randomization-methods-master\source\Benchmarks.h(41,13): error C2059: 语法错误:“(”
+C:\进化算法\jde-randomization-methods-master\source\Benchmarks.h(41,15): error C2238: 意外的标记位于“;”之前
+C:\进化算法\jde-randomization-methods-master\source\Benchmarks.h(45,27): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\进化算法\jde-randomization-methods-master\source\Benchmarks.h(47,26): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\进化算法\jde-randomization-methods-master\source\F3.h(9,7): error C2460: “F3::uint”: 使用正在定义的“F3”
+C:\进化算法\jde-randomization-methods-master\source\F3.h(6): message : 参见“F3”的声明
+C:\进化算法\jde-randomization-methods-master\source\F3.h(12,43): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\进化算法\jde-randomization-methods-master\source\F3.cpp(6,8): error C2597: 对非静态成员“F3::uint”的非法引用
+C:\进化算法\jde-randomization-methods-master\source\F3.h(9): message : 参见“F3::uint”的声明
+C:\进化算法\jde-randomization-methods-master\source\F3.cpp(6,13): error C2146: 语法错误: 缺少“)”(在标识符“_dim”的前面)
+C:\进化算法\jde-randomization-methods-master\source\F3.cpp(6,30): error C2059: 语法错误:“)”
+C:\进化算法\jde-randomization-methods-master\source\F3.cpp(7,1): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+C:\进化算法\jde-randomization-methods-master\source\F3.cpp(7,1): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+C:\进化算法\jde-randomization-methods-master\source\F3.cpp(19,50): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\进化算法\jde-randomization-methods-master\source\F3.cpp(19,50): error C2146: 语法错误: 缺少“)”(在标识符“ip”的前面)
+C:\进化算法\jde-randomization-methods-master\source\F3.cpp(19,50): error C3646: “ip”: 未知重写说明符
+C:\进化算法\jde-randomization-methods-master\source\F3.cpp(19,52): error C2059: 语法错误:“)”
+C:\进化算法\jde-randomization-methods-master\source\F3.cpp(29,14): error C2146: 语法错误: 缺少“;”(在标识符“j”的前面)
+C:\进化算法\jde-randomization-methods-master\source\F3.cpp(29,16): error C2143: 语法错误: 缺少“;”(在“=”的前面)
+C:\进化算法\jde-randomization-methods-master\source\F3.cpp(29,16): error C2143: 语法错误: 缺少“)”(在“=”的前面)
+C:\进化算法\jde-randomization-methods-master\source\F3.cpp(29,16): error C2059: 语法错误:“=”
+C:\进化算法\jde-randomization-methods-master\source\F3.cpp(29,21): error C2065: “j”: 未声明的标识符
+C:\进化算法\jde-randomization-methods-master\source\F3.cpp(29,25): error C2065: “n_dim”: 未声明的标识符
+C:\进化算法\jde-randomization-methods-master\source\F3.cpp(29,32): error C2065: “j”: 未声明的标识符
+C:\进化算法\jde-randomization-methods-master\source\F3.cpp(29,35): error C2059: 语法错误:“)”
+C:\进化算法\jde-randomization-methods-master\source\F3.cpp(30,29): error C2065: “j”: 未声明的标识符
+C:\进化算法\jde-randomization-methods-master\source\F3.cpp(30,33): error C2065: “ip”: 未声明的标识符
+C:\进化算法\jde-randomization-methods-master\source\F3.cpp(30,48): error C2059: 语法错误:“;”
+C:\进化算法\jde-randomization-methods-master\source\F3.cpp(31,31): error C2065: “j”: 未声明的标识符
+C:\进化算法\jde-randomization-methods-master\source\F3.cpp(31,35): error C2065: “ip”: 未声明的标识符
+C:\进化算法\jde-randomization-methods-master\source\F3.cpp(31,54): error C2065: “j”: 未声明的标识符
+C:\进化算法\jde-randomization-methods-master\source\F3.cpp(31,61): error C2065: “M_PI”: 未声明的标识符
+C:\进化算法\jde-randomization-methods-master\source\F3.cpp(33,11): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\进化算法\jde-randomization-methods-master\source\F3.cpp(33,30): error C2065: “aux1”: 未声明的标识符
+C:\进化算法\jde-randomization-methods-master\source\F3.cpp(33,37): error C2065: “aux2”: 未声明的标识符
+C:\进化算法\jde-randomization-methods-master\source\F3.cpp(35,5): error C2059: 语法错误:“return”
+C:\进化算法\jde-randomization-methods-master\source\F3.cpp(36,1): error C2059: 语法错误:“}”
+C:\进化算法\jde-randomization-methods-master\source\F3.cpp(36,1): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+  F4.cpp
+C:\进化算法\jde-randomization-methods-master\source\F4.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\进化算法\jde-randomization-methods-master\source\Benchmarks.h(19,8): error C3646: “n_dim”: 未知重写说明符
+C:\进化算法\jde-randomization-methods-master\source\Benchmarks.h(19,13): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\进化算法\jde-randomization-methods-master\source\Benchmarks.h(20,8): error C3646: “ID”: 未知重写说明符
+C:\进化算法\jde-randomization-methods-master\source\Benchmarks.h(20,10): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\进化算法\jde-randomization-methods-master\source\Benchmarks.h(31,51): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\进化算法\jde-randomization-methods-master\source\Benchmarks.h(35,52): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\进化算法\jde-randomization-methods-master\source\Benchmarks.h(41,8): error C3646: “getID”: 未知重写说明符
+C:\进化算法\jde-randomization-methods-master\source\Benchmarks.h(41,13): error C2059: 语法错误:“(”
+C:\进化算法\jde-randomization-methods-master\source\Benchmarks.h(41,15): error C2238: 意外的标记位于“;”之前
+C:\进化算法\jde-randomization-methods-master\source\Benchmarks.h(45,27): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\进化算法\jde-randomization-methods-master\source\Benchmarks.h(47,26): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\进化算法\jde-randomization-methods-master\source\F4.h(9,7): error C2460: “F4::uint”: 使用正在定义的“F4”
+C:\进化算法\jde-randomization-methods-master\source\F4.h(6): message : 参见“F4”的声明
+C:\进化算法\jde-randomization-methods-master\source\F4.h(12,43): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\进化算法\jde-randomization-methods-master\source\F4.cpp(6,8): error C2597: 对非静态成员“F4::uint”的非法引用
+C:\进化算法\jde-randomization-methods-master\source\F4.h(9): message : 参见“F4::uint”的声明
+C:\进化算法\jde-randomization-methods-master\source\F4.cpp(6,13): error C2146: 语法错误: 缺少“)”(在标识符“_dim”的前面)
+C:\进化算法\jde-randomization-methods-master\source\F4.cpp(6,30): error C2059: 语法错误:“)”
+C:\进化算法\jde-randomization-methods-master\source\F4.cpp(7,1): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+C:\进化算法\jde-randomization-methods-master\source\F4.cpp(7,1): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+C:\进化算法\jde-randomization-methods-master\source\F4.cpp(19,50): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\进化算法\jde-randomization-methods-master\source\F4.cpp(19,50): error C2146: 语法错误: 缺少“)”(在标识符“ip”的前面)
+C:\进化算法\jde-randomization-methods-master\source\F4.cpp(19,50): error C3646: “ip”: 未知重写说明符
+C:\进化算法\jde-randomization-methods-master\source\F4.cpp(19,52): error C2059: 语法错误:“)”
+C:\进化算法\jde-randomization-methods-master\source\F4.cpp(28,11): error C2146: 语法错误: 缺少“;”(在标识符“i”的前面)
+C:\进化算法\jde-randomization-methods-master\source\F4.cpp(28,13): error C2143: 语法错误: 缺少“;”(在“=”的前面)
+C:\进化算法\jde-randomization-methods-master\source\F4.cpp(28,13): error C2143: 语法错误: 缺少“)”(在“=”的前面)
+C:\进化算法\jde-randomization-methods-master\source\F4.cpp(28,13): error C2059: 语法错误:“=”
+C:\进化算法\jde-randomization-methods-master\source\F4.cpp(28,18): error C2065: “i”: 未声明的标识符
+C:\进化算法\jde-randomization-methods-master\source\F4.cpp(28,22): error C2065: “n_dim”: 未声明的标识符
+C:\进化算法\jde-randomization-methods-master\source\F4.cpp(28,31): error C2065: “i”: 未声明的标识符
+C:\进化算法\jde-randomization-methods-master\source\F4.cpp(28,34): error C2059: 语法错误:“)”
+C:\进化算法\jde-randomization-methods-master\source\F4.cpp(29,36): error C2065: “i”: 未声明的标识符
+C:\进化算法\jde-randomization-methods-master\source\F4.cpp(29,42): error C2065: “ip”: 未声明的标识符
+C:\进化算法\jde-randomization-methods-master\source\F4.cpp(29,56): error C2065: “i”: 未声明的标识符
+C:\进化算法\jde-randomization-methods-master\source\F4.cpp(29,60): error C2065: “ip”: 未声明的标识符
+C:\进化算法\jde-randomization-methods-master\source\F4.cpp(29,90): error C2065: “i”: 未声明的标识符
+C:\进化算法\jde-randomization-methods-master\source\F4.cpp(29,94): error C2065: “ip”: 未声明的标识符
+C:\进化算法\jde-randomization-methods-master\source\F4.cpp(29,101): error C2059: 语法错误:“;”
+C:\进化算法\jde-randomization-methods-master\source\F4.cpp(32,5): error C2059: 语法错误:“return”
+C:\进化算法\jde-randomization-methods-master\source\F4.cpp(33,1): error C2059: 语法错误:“}”
+C:\进化算法\jde-randomization-methods-master\source\F4.cpp(33,1): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+  F5.cpp
+C:\进化算法\jde-randomization-methods-master\source\F5.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\进化算法\jde-randomization-methods-master\source\Benchmarks.h(19,8): error C3646: “n_dim”: 未知重写说明符
+C:\进化算法\jde-randomization-methods-master\source\Benchmarks.h(19,13): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\进化算法\jde-randomization-methods-master\source\Benchmarks.h(20,8): error C3646: “ID”: 未知重写说明符
+C:\进化算法\jde-randomization-methods-master\source\Benchmarks.h(20,10): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\进化算法\jde-randomization-methods-master\source\Benchmarks.h(31,51): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\进化算法\jde-randomization-methods-master\source\Benchmarks.h(35,52): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\进化算法\jde-randomization-methods-master\source\Benchmarks.h(41,8): error C3646: “getID”: 未知重写说明符
+C:\进化算法\jde-randomization-methods-master\source\Benchmarks.h(41,13): error C2059: 语法错误:“(”
+C:\进化算法\jde-randomization-methods-master\source\Benchmarks.h(41,15): error C2238: 意外的标记位于“;”之前
+C:\进化算法\jde-randomization-methods-master\source\Benchmarks.h(45,27): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\进化算法\jde-randomization-methods-master\source\Benchmarks.h(47,26): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\进化算法\jde-randomization-methods-master\source\F5.h(9,7): error C2460: “F5::uint”: 使用正在定义的“F5”
+C:\进化算法\jde-randomization-methods-master\source\F5.h(6): message : 参见“F5”的声明
+C:\进化算法\jde-randomization-methods-master\source\F5.h(12,43): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\进化算法\jde-randomization-methods-master\source\F5.cpp(6,8): error C2597: 对非静态成员“F5::uint”的非法引用
+C:\进化算法\jde-randomization-methods-master\source\F5.h(9): message : 参见“F5::uint”的声明
+C:\进化算法\jde-randomization-methods-master\source\F5.cpp(6,13): error C2146: 语法错误: 缺少“)”(在标识符“_dim”的前面)
+C:\进化算法\jde-randomization-methods-master\source\F5.cpp(6,30): error C2059: 语法错误:“)”
+C:\进化算法\jde-randomization-methods-master\source\F5.cpp(7,1): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+C:\进化算法\jde-randomization-methods-master\source\F5.cpp(7,1): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+C:\进化算法\jde-randomization-methods-master\source\F5.cpp(19,50): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\进化算法\jde-randomization-methods-master\source\F5.cpp(19,50): error C2146: 语法错误: 缺少“)”(在标识符“ip”的前面)
+C:\进化算法\jde-randomization-methods-master\source\F5.cpp(19,50): error C3646: “ip”: 未知重写说明符
+C:\进化算法\jde-randomization-methods-master\source\F5.cpp(19,52): error C2059: 语法错误:“)”
+C:\进化算法\jde-randomization-methods-master\source\F5.cpp(28,11): error C2146: 语法错误: 缺少“;”(在标识符“i”的前面)
+C:\进化算法\jde-randomization-methods-master\source\F5.cpp(28,13): error C2143: 语法错误: 缺少“;”(在“=”的前面)
+C:\进化算法\jde-randomization-methods-master\source\F5.cpp(28,13): error C2143: 语法错误: 缺少“)”(在“=”的前面)
+C:\进化算法\jde-randomization-methods-master\source\F5.cpp(28,13): error C2059: 语法错误:“=”
+C:\进化算法\jde-randomization-methods-master\source\F5.cpp(28,18): error C2065: “i”: 未声明的标识符
+C:\进化算法\jde-randomization-methods-master\source\F5.cpp(28,22): error C2065: “n_dim”: 未声明的标识符
+C:\进化算法\jde-randomization-methods-master\source\F5.cpp(28,29): error C2065: “i”: 未声明的标识符
+C:\进化算法\jde-randomization-methods-master\source\F5.cpp(28,32): error C2059: 语法错误:“)”
+C:\进化算法\jde-randomization-methods-master\source\F5.cpp(29,27): error C2065: “i”: 未声明的标识符
+C:\进化算法\jde-randomization-methods-master\source\F5.cpp(29,31): error C2065: “ip”: 未声明的标识符
+C:\进化算法\jde-randomization-methods-master\source\F5.cpp(29,37): error C2059: 语法错误:“;”
+C:\进化算法\jde-randomization-methods-master\source\F5.cpp(32,5): error C2059: 语法错误:“return”
+C:\进化算法\jde-randomization-methods-master\source\F5.cpp(33,1): error C2059: 语法错误:“}”
+C:\进化算法\jde-randomization-methods-master\source\F5.cpp(33,1): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+  F6.cpp
+C:\进化算法\jde-randomization-methods-master\source\F6.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\进化算法\jde-randomization-methods-master\source\Benchmarks.h(19,8): error C3646: “n_dim”: 未知重写说明符
+C:\进化算法\jde-randomization-methods-master\source\Benchmarks.h(19,13): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\进化算法\jde-randomization-methods-master\source\Benchmarks.h(20,8): error C3646: “ID”: 未知重写说明符
+C:\进化算法\jde-randomization-methods-master\source\Benchmarks.h(20,10): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\进化算法\jde-randomization-methods-master\source\Benchmarks.h(31,51): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\进化算法\jde-randomization-methods-master\source\Benchmarks.h(35,52): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\进化算法\jde-randomization-methods-master\source\Benchmarks.h(41,8): error C3646: “getID”: 未知重写说明符
+C:\进化算法\jde-randomization-methods-master\source\Benchmarks.h(41,13): error C2059: 语法错误:“(”
+C:\进化算法\jde-randomization-methods-master\source\Benchmarks.h(41,15): error C2238: 意外的标记位于“;”之前
+C:\进化算法\jde-randomization-methods-master\source\Benchmarks.h(45,27): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\进化算法\jde-randomization-methods-master\source\Benchmarks.h(47,26): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\进化算法\jde-randomization-methods-master\source\F6.h(9,7): error C2460: “F6::uint”: 使用正在定义的“F6”
+C:\进化算法\jde-randomization-methods-master\source\F6.h(6): message : 参见“F6”的声明
+C:\进化算法\jde-randomization-methods-master\source\F6.h(12,43): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\进化算法\jde-randomization-methods-master\source\F6.cpp(6,8): error C2597: 对非静态成员“F6::uint”的非法引用
+C:\进化算法\jde-randomization-methods-master\source\F6.h(9): message : 参见“F6::uint”的声明
+C:\进化算法\jde-randomization-methods-master\source\F6.cpp(6,13): error C2146: 语法错误: 缺少“)”(在标识符“_dim”的前面)
+C:\进化算法\jde-randomization-methods-master\source\F6.cpp(6,30): error C2059: 语法错误:“)”
+C:\进化算法\jde-randomization-methods-master\source\F6.cpp(7,1): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+C:\进化算法\jde-randomization-methods-master\source\F6.cpp(7,1): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+C:\进化算法\jde-randomization-methods-master\source\F6.cpp(19,50): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\进化算法\jde-randomization-methods-master\source\F6.cpp(19,50): error C2146: 语法错误: 缺少“)”(在标识符“ip”的前面)
+C:\进化算法\jde-randomization-methods-master\source\F6.cpp(19,50): error C3646: “ip”: 未知重写说明符
+C:\进化算法\jde-randomization-methods-master\source\F6.cpp(19,52): error C2059: 语法错误:“)”
+C:\进化算法\jde-randomization-methods-master\source\F6.cpp(28,12): error C2146: 语法错误: 缺少“;”(在标识符“i”的前面)
+C:\进化算法\jde-randomization-methods-master\source\F6.cpp(28,14): error C2143: 语法错误: 缺少“;”(在“=”的前面)
+C:\进化算法\jde-randomization-methods-master\source\F6.cpp(28,14): error C2143: 语法错误: 缺少“)”(在“=”的前面)
+C:\进化算法\jde-randomization-methods-master\source\F6.cpp(28,14): error C2059: 语法错误:“=”
+C:\进化算法\jde-randomization-methods-master\source\F6.cpp(28,19): error C2065: “i”: 未声明的标识符
+C:\进化算法\jde-randomization-methods-master\source\F6.cpp(28,23): error C2065: “n_dim”: 未声明的标识符
+C:\进化算法\jde-randomization-methods-master\source\F6.cpp(28,30): error C2065: “i”: 未声明的标识符
+C:\进化算法\jde-randomization-methods-master\source\F6.cpp(28,33): error C2059: 语法错误:“)”
+C:\进化算法\jde-randomization-methods-master\source\F6.cpp(29,16): error C2065: “i”: 未声明的标识符
+C:\进化算法\jde-randomization-methods-master\source\F6.cpp(29,20): error C2065: “ip”: 未声明的标识符
+C:\进化算法\jde-randomization-methods-master\source\F6.cpp(29,28): error C2065: “i”: 未声明的标识符
+C:\进化算法\jde-randomization-methods-master\source\F6.cpp(29,32): error C2065: “ip”: 未声明的标识符
+C:\进化算法\jde-randomization-methods-master\source\F6.cpp(29,35): error C2059: 语法错误:“;”
+C:\进化算法\jde-randomization-methods-master\source\F6.cpp(32,3): error C2059: 语法错误:“for”
+C:\进化算法\jde-randomization-methods-master\source\F6.cpp(32,18): error C2143: 语法错误: 缺少“)”(在“;”的前面)
+C:\进化算法\jde-randomization-methods-master\source\F6.cpp(32,22): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+C:\进化算法\jde-randomization-methods-master\source\F6.cpp(32,22): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\进化算法\jde-randomization-methods-master\source\F6.cpp(32,32): error C2143: 语法错误: 缺少“;”(在“++”的前面)
+C:\进化算法\jde-randomization-methods-master\source\F6.cpp(32,32): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\进化算法\jde-randomization-methods-master\source\F6.cpp(32,31): error C2086: “int i”: 重定义
+C:\进化算法\jde-randomization-methods-master\source\F6.cpp(32): message : 参见“i”的声明
+C:\进化算法\jde-randomization-methods-master\source\F6.cpp(32,34): error C2059: 语法错误:“)”
+C:\进化算法\jde-randomization-methods-master\source\F6.cpp(32,35): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+C:\进化算法\jde-randomization-methods-master\source\F6.cpp(32,35): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+C:\进化算法\jde-randomization-methods-master\source\F6.cpp(36,12): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\进化算法\jde-randomization-methods-master\source\F6.cpp(36,45): error C2065: “n_dim”: 未声明的标识符
+C:\进化算法\jde-randomization-methods-master\source\F6.cpp(36,51): error C2065: “aux”: 未声明的标识符
+C:\进化算法\jde-randomization-methods-master\source\F6.cpp(36,73): error C2065: “n_dim”: 未声明的标识符
+C:\进化算法\jde-randomization-methods-master\source\F6.cpp(36,79): error C2065: “aux1”: 未声明的标识符
+C:\进化算法\jde-randomization-methods-master\source\F6.cpp(38,3): error C2059: 语法错误:“return”
+C:\进化算法\jde-randomization-methods-master\source\F6.cpp(39,1): error C2059: 语法错误:“}”
+C:\进化算法\jde-randomization-methods-master\source\F6.cpp(39,1): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+  F7.cpp
+C:\进化算法\jde-randomization-methods-master\source\F7.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\进化算法\jde-randomization-methods-master\source\Benchmarks.h(19,8): error C3646: “n_dim”: 未知重写说明符
+C:\进化算法\jde-randomization-methods-master\source\Benchmarks.h(19,13): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\进化算法\jde-randomization-methods-master\source\Benchmarks.h(20,8): error C3646: “ID”: 未知重写说明符
+C:\进化算法\jde-randomization-methods-master\source\Benchmarks.h(20,10): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\进化算法\jde-randomization-methods-master\source\Benchmarks.h(31,51): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\进化算法\jde-randomization-methods-master\source\Benchmarks.h(35,52): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\进化算法\jde-randomization-methods-master\source\Benchmarks.h(41,8): error C3646: “getID”: 未知重写说明符
+C:\进化算法\jde-randomization-methods-master\source\Benchmarks.h(41,13): error C2059: 语法错误:“(”
+C:\进化算法\jde-randomization-methods-master\source\Benchmarks.h(41,15): error C2238: 意外的标记位于“;”之前
+C:\进化算法\jde-randomization-methods-master\source\Benchmarks.h(45,27): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\进化算法\jde-randomization-methods-master\source\Benchmarks.h(47,26): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\进化算法\jde-randomization-methods-master\source\F7.h(9,7): error C2460: “F7::uint”: 使用正在定义的“F7”
+C:\进化算法\jde-randomization-methods-master\source\F7.h(6): message : 参见“F7”的声明
+C:\进化算法\jde-randomization-methods-master\source\F7.h(12,43): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\进化算法\jde-randomization-methods-master\source\F7.cpp(6,8): error C2597: 对非静态成员“F7::uint”的非法引用
+C:\进化算法\jde-randomization-methods-master\source\F7.h(9): message : 参见“F7::uint”的声明
+C:\进化算法\jde-randomization-methods-master\source\F7.cpp(6,13): error C2146: 语法错误: 缺少“)”(在标识符“_dim”的前面)
+C:\进化算法\jde-randomization-methods-master\source\F7.cpp(6,30): error C2059: 语法错误:“)”
+C:\进化算法\jde-randomization-methods-master\source\F7.cpp(7,1): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+C:\进化算法\jde-randomization-methods-master\source\F7.cpp(7,1): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+C:\进化算法\jde-randomization-methods-master\source\F7.cpp(20,50): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\进化算法\jde-randomization-methods-master\source\F7.cpp(20,50): error C2146: 语法错误: 缺少“)”(在标识符“ip”的前面)
+C:\进化算法\jde-randomization-methods-master\source\F7.cpp(20,50): error C3646: “ip”: 未知重写说明符
+C:\进化算法\jde-randomization-methods-master\source\F7.cpp(20,52): error C2059: 语法错误:“)”
+C:\进化算法\jde-randomization-methods-master\source\F7.cpp(29,13): error C2146: 语法错误: 缺少“;”(在标识符“i”的前面)
+C:\进化算法\jde-randomization-methods-master\source\F7.cpp(29,15): error C2143: 语法错误: 缺少“;”(在“=”的前面)
+C:\进化算法\jde-randomization-methods-master\source\F7.cpp(29,15): error C2143: 语法错误: 缺少“)”(在“=”的前面)
+C:\进化算法\jde-randomization-methods-master\source\F7.cpp(29,15): error C2059: 语法错误:“=”
+C:\进化算法\jde-randomization-methods-master\source\F7.cpp(29,20): error C2065: “i”: 未声明的标识符
+C:\进化算法\jde-randomization-methods-master\source\F7.cpp(29,24): error C2065: “n_dim”: 未声明的标识符
+C:\进化算法\jde-randomization-methods-master\source\F7.cpp(29,31): error C2065: “i”: 未声明的标识符
+C:\进化算法\jde-randomization-methods-master\source\F7.cpp(29,34): error C2059: 语法错误:“)”
+C:\进化算法\jde-randomization-methods-master\source\F7.cpp(30,16): error C2065: “i”: 未声明的标识符
+C:\进化算法\jde-randomization-methods-master\source\F7.cpp(30,20): error C2065: “ip”: 未声明的标识符
+C:\进化算法\jde-randomization-methods-master\source\F7.cpp(30,44): error C2065: “i”: 未声明的标识符
+C:\进化算法\jde-randomization-methods-master\source\F7.cpp(30,48): error C2065: “ip”: 未声明的标识符
+C:\进化算法\jde-randomization-methods-master\source\F7.cpp(30,54): error C2059: 语法错误:“;”
+C:\进化算法\jde-randomization-methods-master\source\F7.cpp(33,12): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\进化算法\jde-randomization-methods-master\source\F7.cpp(33,16): error C2065: “aux”: 未声明的标识符
+C:\进化算法\jde-randomization-methods-master\source\F7.cpp(33,20): error C2065: “n_dim”: 未声明的标识符
+C:\进化算法\jde-randomization-methods-master\source\F7.cpp(35,3): error C2059: 语法错误:“return”
+C:\进化算法\jde-randomization-methods-master\source\F7.cpp(36,1): error C2059: 语法错误:“}”
+C:\进化算法\jde-randomization-methods-master\source\F7.cpp(36,1): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+  F8.cpp
+C:\进化算法\jde-randomization-methods-master\source\F8.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\进化算法\jde-randomization-methods-master\source\Benchmarks.h(19,8): error C3646: “n_dim”: 未知重写说明符
+C:\进化算法\jde-randomization-methods-master\source\Benchmarks.h(19,13): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\进化算法\jde-randomization-methods-master\source\Benchmarks.h(20,8): error C3646: “ID”: 未知重写说明符
+C:\进化算法\jde-randomization-methods-master\source\Benchmarks.h(20,10): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\进化算法\jde-randomization-methods-master\source\Benchmarks.h(31,51): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\进化算法\jde-randomization-methods-master\source\Benchmarks.h(35,52): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\进化算法\jde-randomization-methods-master\source\Benchmarks.h(41,8): error C3646: “getID”: 未知重写说明符
+C:\进化算法\jde-randomization-methods-master\source\Benchmarks.h(41,13): error C2059: 语法错误:“(”
+C:\进化算法\jde-randomization-methods-master\source\Benchmarks.h(41,15): error C2238: 意外的标记位于“;”之前
+C:\进化算法\jde-randomization-methods-master\source\Benchmarks.h(45,27): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\进化算法\jde-randomization-methods-master\source\Benchmarks.h(47,26): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\进化算法\jde-randomization-methods-master\source\F8.h(9,7): error C2460: “F8::uint”: 使用正在定义的“F8”
+C:\进化算法\jde-randomization-methods-master\source\F8.h(6): message : 参见“F8”的声明
+C:\进化算法\jde-randomization-methods-master\source\F8.h(12,43): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\进化算法\jde-randomization-methods-master\source\F8.cpp(6,8): error C2597: 对非静态成员“F8::uint”的非法引用
+C:\进化算法\jde-randomization-methods-master\source\F8.h(9): message : 参见“F8::uint”的声明
+C:\进化算法\jde-randomization-methods-master\source\F8.cpp(6,13): error C2146: 语法错误: 缺少“)”(在标识符“_dim”的前面)
+C:\进化算法\jde-randomization-methods-master\source\F8.cpp(6,30): error C2059: 语法错误:“)”
+C:\进化算法\jde-randomization-methods-master\source\F8.cpp(7,1): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+C:\进化算法\jde-randomization-methods-master\source\F8.cpp(7,1): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+C:\进化算法\jde-randomization-methods-master\source\F8.cpp(20,50): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\进化算法\jde-randomization-methods-master\source\F8.cpp(20,50): error C2146: 语法错误: 缺少“)”(在标识符“ip”的前面)
+C:\进化算法\jde-randomization-methods-master\source\F8.cpp(20,50): error C3646: “ip”: 未知重写说明符
+C:\进化算法\jde-randomization-methods-master\source\F8.cpp(20,52): error C2059: 语法错误:“)”
+C:\进化算法\jde-randomization-methods-master\source\F8.cpp(29,13): error C2146: 语法错误: 缺少“;”(在标识符“j”的前面)
+C:\进化算法\jde-randomization-methods-master\source\F8.cpp(29,15): error C2143: 语法错误: 缺少“;”(在“=”的前面)
+C:\进化算法\jde-randomization-methods-master\source\F8.cpp(29,15): error C2143: 语法错误: 缺少“)”(在“=”的前面)
+C:\进化算法\jde-randomization-methods-master\source\F8.cpp(29,15): error C2059: 语法错误:“=”
+C:\进化算法\jde-randomization-methods-master\source\F8.cpp(29,20): error C2065: “j”: 未声明的标识符
+C:\进化算法\jde-randomization-methods-master\source\F8.cpp(29,23): error C2065: “n_dim”: 未声明的标识符
+C:\进化算法\jde-randomization-methods-master\source\F8.cpp(29,30): error C2065: “j”: 未声明的标识符
+C:\进化算法\jde-randomization-methods-master\source\F8.cpp(29,33): error C2059: 语法错误:“)”
+C:\进化算法\jde-randomization-methods-master\source\F8.cpp(30,27): error C2065: “j”: 未声明的标识符
+C:\进化算法\jde-randomization-methods-master\source\F8.cpp(30,31): error C2065: “ip”: 未声明的标识符
+C:\进化算法\jde-randomization-methods-master\source\F8.cpp(30,39): error C2059: 语法错误:“;”
+C:\进化算法\jde-randomization-methods-master\source\F8.cpp(31,23): error C2065: “j”: 未声明的标识符
+C:\进化算法\jde-randomization-methods-master\source\F8.cpp(31,29): error C2065: “j”: 未声明的标识符
+C:\进化算法\jde-randomization-methods-master\source\F8.cpp(31,33): error C2065: “ip”: 未声明的标识符
+C:\进化算法\jde-randomization-methods-master\source\F8.cpp(34,12): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\进化算法\jde-randomization-methods-master\source\F8.cpp(34,14): error C2065: “aux”: 未声明的标识符
+C:\进化算法\jde-randomization-methods-master\source\F8.cpp(34,22): error C2065: “aux1”: 未声明的标识符
+C:\进化算法\jde-randomization-methods-master\source\F8.cpp(34,36): error C2065: “aux1”: 未声明的标识符
+C:\进化算法\jde-randomization-methods-master\source\F8.cpp(36,3): error C2059: 语法错误:“return”
+C:\进化算法\jde-randomization-methods-master\source\F8.cpp(37,1): error C2059: 语法错误:“}”
+C:\进化算法\jde-randomization-methods-master\source\F8.cpp(37,1): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+  IO.cpp
+  jDE.cpp
+C:\进化算法\jde-randomization-methods-master\source\jDE.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\进化算法\jde-randomization-methods-master\source\jDE.h(14,10): fatal error C1083: 无法打开包括文件: “gsl/gsl_rng.h”: No such file or directory
+  main.cpp
+C:\进化算法\jde-randomization-methods-master\source\main.cpp(7,10): fatal error C1083: 无法打开包括文件: “sys/time.h”: No such file or directory
+  正在生成代码...
