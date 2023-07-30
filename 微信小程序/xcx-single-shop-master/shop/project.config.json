@@ -1,0 +1,74 @@
+{
+  "description": "项目配置文件。",
+  "setting": {
+    "urlCheck": false,
+    "es6": true,
+    "postcss": false,
+    "minified": true,
+    "newFeature": true,
+    "babelSetting": {
+      "ignore": [],
+      "disablePlugins": [],
+      "outputPath": ""
+    },
+    "condition": false
+  },
+  "compileType": "miniprogram",
+  "libVersion": "3.0.0",
+  "appid": "wxc5d65b5a2691d5e4",
+  "projectname": "imitate-coco-xcx",
+  "condition": {
+    "miniprogram": {
+      "list": [
+        {
+          "name": "列表",
+          "pathName": "pages/list/list",
+          "query": ""
+        },
+        {
+          "name": "订单详情",
+          "pathName": "pages/order/detail/detail",
+          "query": ""
+        },
+        {
+          "name": "wode ",
+          "pathName": "pages/mine/mine",
+          "query": ""
+        },
+        {
+          "name": "订单列表",
+          "pathName": "pages/order/list/list",
+          "query": ""
+        },
+        {
+          "name": "订单详情",
+          "pathName": "pages/order/detail/detail",
+          "query": ""
+        },
+        {
+          "name": "结算",
+          "pathName": "pages/order/balance/balance",
+          "query": ""
+        },
+        {
+          "name": "取餐",
+          "pathName": "pages/order/detail/detail",
+          "query": ""
+        },
+        {
+          "name": "cut",
+          "pathName": "pages/cut/cut",
+          "query": ""
+        }
+      ]
+    }
+  },
+  "packOptions": {
+    "ignore": [],
+    "include": []
+  },
+  "editorSetting": {
+    "tabIndent": "insertSpaces",
+    "tabSize": 2
+  }
+}
