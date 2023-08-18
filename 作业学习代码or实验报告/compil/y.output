@@ -1,0 +1,162 @@
+终端机在文法中未使用
+
+    INT
+
+
+语法
+
+    0 $accept: E $end
+
+    1 E: E PLUS T
+    2  | T
+
+    3 T: T MULT F
+    4  | F
+
+    5 F: LPAREN E RPAREN
+    6  | DIGIT
+
+
+终结语词，附有它们出现处的规则
+
+    $end (0) 0
+    error (256)
+    DIGIT (258) 6
+    PLUS (259) 1
+    MULT (260) 3
+    LPAREN (261) 5
+    RPAREN (262) 5
+    INT (263)
+
+
+非终结语词，附有它们出现处的规则
+
+    $accept (9)
+        on left: 0
+    E <int> (10)
+        on left: 1 2
+        on right: 0 1 5
+    T <int> (11)
+        on left: 3 4
+        on right: 1 2 3
+    F <int> (12)
+        on left: 5 6
+        on right: 3 4
+
+
+状态 0
+
+    0 $accept: • E $end
+
+    DIGIT   偏移，并进入状态 1
+    LPAREN  偏移，并进入状态 2
+
+    E  转到状态 3
+    T  转到状态 4
+    F  转到状态 5
+
+
+状态 1
+
+    6 F: DIGIT •
+
+    $default  使用规则 6 以归约 (F)
+
+
+状态 2
+
+    5 F: LPAREN • E RPAREN
+
+    DIGIT   偏移，并进入状态 1
+    LPAREN  偏移，并进入状态 2
+
+    E  转到状态 6
+    T  转到状态 4
+    F  转到状态 5
+
+
+状态 3
+
+    0 $accept: E • $end
+    1 E: E • PLUS T
+
+    $end  偏移，并进入状态 7
+    PLUS  偏移，并进入状态 8
+
+
+状态 4
+
+    2 E: T •
+    3 T: T • MULT F
+
+    MULT  偏移，并进入状态 9
+
+    $default  使用规则 2 以归约 (E)
+
+
+状态 5
+
+    4 T: F •
+
+    $default  使用规则 4 以归约 (T)
+
+
+状态 6
+
+    1 E: E • PLUS T
+    5 F: LPAREN E • RPAREN
+
+    PLUS    偏移，并进入状态 8
+    RPAREN  偏移，并进入状态 10
+
+
+状态 7
+
+    0 $accept: E $end •
+
+    $default  接受
+
+
+状态 8
+
+    1 E: E PLUS • T
+
+    DIGIT   偏移，并进入状态 1
+    LPAREN  偏移，并进入状态 2
+
+    T  转到状态 11
+    F  转到状态 5
+
+
+状态 9
+
+    3 T: T MULT • F
+
+    DIGIT   偏移，并进入状态 1
+    LPAREN  偏移，并进入状态 2
+
+    F  转到状态 12
+
+
+状态 10
+
+    5 F: LPAREN E RPAREN •
+
+    $default  使用规则 5 以归约 (F)
+
+
+状态 11
+
+    1 E: E PLUS T •
+    3 T: T • MULT F
+
+    MULT  偏移，并进入状态 9
+
+    $default  使用规则 1 以归约 (E)
+
+
+状态 12
+
+    3 T: T MULT F •
+
+    $default  使用规则 3 以归约 (T)
