@@ -1,0 +1,1 @@
+<view><map style="width:100%;height:93vh;" markers="{{covers}}" longitude="{{longitude}}" latitude="{{latitude}}"></map><view class="Control"><view data-event-opts="{{[['tap',[['saveInfo',['$event']]]]]}}" class="btn" bindtap="__e">签到</view></view></view>

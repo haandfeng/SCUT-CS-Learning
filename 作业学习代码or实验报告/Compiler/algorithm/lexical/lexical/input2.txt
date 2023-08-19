@@ -1,4 +1,0 @@
-A=B+C
-B=D*E
-E=F+4
-if E<F then E=5*E else E=E-5

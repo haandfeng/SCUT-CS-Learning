@@ -1,9 +1,0 @@
-flex calc.l
-bison -vdty calc.y
-gcc -o calc y.tab.c lex.yy.c
-flex calc.l
-bison -d calc2.y
-cc lex.yy.c calc2.tab.c
-bison -d calc.y 
-gcc calc.tab.c lex.yy.c
-cc lex.yy.c -ll
