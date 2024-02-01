@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Detail</title>
+</head>
+<body>
+<h1>Details for hole {{ hole.id }}</h1>
+<hr>
+<p>Reported by: {{ hole.reporter }}</p>
+<p>Description: A hole sizing {{ hole.hole_size }} was reported
+    at the {{ hole.hole_location }} of {{ hole.street }}, {{ hole.district }}.</p>
+<p> Reported time: {{ hole.submit_date }}</p>
+<hr>
+{% if hand_over == 'true' %}
+    <p>This hole is in the state of {{ hole.state.hole_status }},
+        repaired by the crews of {{ hole.state.crews }}
+        with the equipment of {{ hole.state.equipment }}.</p>
+{% else %}
+    <p>Engineers are checking the situation,
+        please wait patiently.
+        We will update if there is any progress.</p>
+{% endif %}
+<hr>
+
+<a href={% url 'phtrs:index' %}>Back to Index</a>
+
+</body>
+</html>
